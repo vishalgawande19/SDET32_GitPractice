@@ -10,5 +10,7 @@ public class ClassC
 		System.out.println("Fifth push");
 		System.out.println("Seventh push"); 
 		System.out.println("Eighth push"); 
+		System.out.println("Seventh push");
+		System.out.println("Sixth push");
 	}
 }
