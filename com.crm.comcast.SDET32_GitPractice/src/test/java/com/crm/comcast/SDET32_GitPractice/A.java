@@ -9,7 +9,5 @@ public class A
 	{
 		System.out.println("First change Push for jenkins ");
 		System.out.println("First change Push for jenkins 2");
-
 	}
-	
 }
