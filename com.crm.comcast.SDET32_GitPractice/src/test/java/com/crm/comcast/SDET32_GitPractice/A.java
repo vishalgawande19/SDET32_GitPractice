@@ -7,7 +7,7 @@ public class A
 	@Test
 	public void demoTest()
 	{
-		System.out.println("First change Push for jenkins");
+		System.out.println("First change Push for jenkins ");
 	}
 	
 }
